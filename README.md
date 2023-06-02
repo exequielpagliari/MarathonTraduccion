@@ -2,11 +2,11 @@
 
 ### Introducción 
 
-La trilogía de Marathon es una serie de videojuegos de ciencia ficción creado por Bungie, lanzada originalmente para el Macintosh. Marathon se refiere al nombre de una gigantesca nave interestelar que hace las veces de colonia, la cual proporciona el escenario para el primer juego y se convierte en referencia prominente en el argumento de las secuelas; la nave fue construida a partir de la que fuera la segunda luna de Marte, Deimos.
+La trilogía de Marathon es una serie de videojuegos de ciencia ficción creado por Bungie, lanzada originalmente para el Macintosh. Marathon se refiere al nombre de una gigantesca nave interestelar que hace las veces de colonia, la cual proporciona el escenario para el primer juego y se convierte en referencia prominente en el argumento de las secuelas; la nave fue construida a partir de la que fuera la segunda luna de Marte, Deimos.[^1]
 
-Ambientado en el año 2794, Marathon ubica al jugador como un oficial de seguridad, enviado a responder a una señal de socorro enviada desde una enorme nave espacial llamada U.E.S.C. Marathon, en órbita alrededor de una colonia en el planeta Tau Ceti IV. Durante el juego, el jugador intenta defender la nave (y su tripulación, además de los colonos) de una raza de extraterrestres esclavizadores llamados Pfhor. A medida que el jugador lucha contra los invasores, presencia interacciones entre las tres inteligencias artificiales de la nave (Leela, Durandal y Tycho), y descubre que no todo es lo que parece a bordo: entre otros problemas, Durandal se ha vuelto rampante y parece que está utilizando a los humanos contra los Pfhor para lograr un fin misterioso.
+Ambientado en el año 2794, Marathon ubica al jugador como un oficial de seguridad, enviado a responder a una señal de socorro enviada desde una enorme nave espacial llamada U.E.S.C. Marathon, en órbita alrededor de una colonia en el planeta Tau Ceti IV. Durante el juego, el jugador intenta defender la nave (y su tripulación, además de los colonos) de una raza de extraterrestres esclavizadores llamados Pfhor. A medida que el jugador lucha contra los invasores, presencia interacciones entre las tres inteligencias artificiales de la nave (Leela, Durandal y Tycho), y descubre que no todo es lo que parece a bordo: entre otros problemas, Durandal se ha vuelto rampante y parece que está utilizando a los humanos contra los Pfhor para lograr un fin misterioso.[^1]
 
-El primer juego de Marathon fue lanzado para el Macintosh en 1994, e introdujo a los videojuegos muchos de los conceptos que ahora son comunes. Características como la de blandir armas duales, personajes aliados no controlados por el jugador, y lo más notable, una intrincada historia. La secuela, Marathon 2: Durandal, fue lanzada en 1995 y amplió las tecnologías del motor gráfico y el Universo de la historia. A diferencia de su protosecuela más oscura, Marathon 2 se ha percibido a menudo por ser un juego más brillante, vivo y más atmosférico. Introdujo varios tipos de modos multijugador más allá del deathmatch y del juego cooperativo, tal como rey de la colina. En 1996, en un giro sorprendente, el juego fue lanzado para Windows 95, junto con Marathon Infinity, que incluía un nuevo panorama usando un motor modificado de Marathon 2, y lo más importante, las herramientas usadas para construirlo, Forge y Anvil. En el 2000, Bungie lanzó el código fuente del motor de Marathon 2, y el proyecto código libre de Marathon comenzó, dando como resultado el motor nuevo de Marathon llamado Aleph One. Finalmente, en 2005, Bungie lanzó la trilogía original completa para la distribución libre en línea, permitiendo que a través Aleph ONE funcionen los juegos de la trilogía en distintas plataformas (OS del Mac, Linux y Windows). 
+El primer juego de Marathon fue lanzado para el Macintosh en 1994, e introdujo a los videojuegos muchos de los conceptos que ahora son comunes. Características como la de blandir armas duales, personajes aliados no controlados por el jugador, y lo más notable, una intrincada historia. La secuela, Marathon 2: Durandal, fue lanzada en 1995 y amplió las tecnologías del motor gráfico y el Universo de la historia. A diferencia de su protosecuela más oscura, Marathon 2 se ha percibido a menudo por ser un juego más brillante, vivo y más atmosférico. Introdujo varios tipos de modos multijugador más allá del deathmatch y del juego cooperativo, tal como rey de la colina. En 1996, en un giro sorprendente, el juego fue lanzado para Windows 95, junto con Marathon Infinity, que incluía un nuevo panorama usando un motor modificado de Marathon 2, y lo más importante, las herramientas usadas para construirlo, Forge y Anvil. En el 2000, Bungie lanzó el código fuente del motor de Marathon 2, y el proyecto código libre de Marathon comenzó, dando como resultado el motor nuevo de Marathon llamado Aleph One. Finalmente, en 2005, Bungie lanzó la trilogía original completa para la distribución libre en línea, permitiendo que a través Aleph ONE funcionen los juegos de la trilogía en distintas plataformas (OS del Mac, Linux y Windows). [^1]
 
 ### Mapas en Marathon
 
@@ -14,6 +14,11 @@ La herramienta Forge y Anvil fueron creadas para el desarrollo de contenido por 
 Los Mapas, además de creados, deben pasar por un proceso llamado merge (unión) para que el juego pueda detectar correctamente el contenido del mapa, así como darle forma a las Terminales del juego, si es que el mapa contiene alguna terminal.
 Todo el proceso de creación está documentado en el Manual de Marathon Infinity.
 
+### AlephOne
+
+Luego de la liberación del código fuente de Marathon, un proyecto libre inició el desarrollo de lo que hoy conocemos como AlephOne, un port a múltiples plataformas que buscar mantener funcional todas las entregas de Marathon en las tecnologías actuales. Hay ports tanto para Windows, como Linux o MacOS X, así como plataformas móviles.
+
+Este proyecto agregó tanto nuevas tecnologías en el apartado gráfico como en la capacidad de modificar con facilidad recursos para crear fansgames.
 
 ### Funcionamiento del Terminal
 
@@ -120,3 +125,11 @@ Good work. Onward we go.
 
 ### Herramientas Terminal
 [En Desarrollo]
+
+
+
+
+
+
+
+[^1]: [MarathonWikiPedia](https://es.wikipedia.org/wiki/Marathon).
