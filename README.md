@@ -8,17 +8,17 @@ Ambientado en el año 2794, Marathon ubica al jugador como un oficial de segurid
 
 El primer juego de Marathon fue lanzado para el Macintosh en 1994, e introdujo a los videojuegos muchos de los conceptos que ahora son comunes. Características como la de blandir armas duales, personajes aliados no controlados por el jugador, y lo más notable, una intrincada historia. La secuela, Marathon 2: Durandal, fue lanzada en 1995 y amplió las tecnologías del motor gráfico y el Universo de la historia. A diferencia de su protosecuela más oscura, Marathon 2 se ha percibido a menudo por ser un juego más brillante, vivo y más atmosférico. Introdujo varios tipos de modos multijugador más allá del deathmatch y del juego cooperativo, tal como rey de la colina. En 1996, en un giro sorprendente, el juego fue lanzado para Windows 95, junto con Marathon Infinity, que incluía un nuevo panorama usando un motor modificado de Marathon 2, y lo más importante, las herramientas usadas para construirlo, Forge y Anvil. En el 2000, Bungie lanzó el código fuente del motor de Marathon 2, y el proyecto código libre de Marathon comenzó, dando como resultado el motor nuevo de Marathon llamado Aleph One. Finalmente, en 2005, Bungie lanzó la trilogía original completa para la distribución libre en línea, permitiendo que a través Aleph ONE funcionen los juegos de la trilogía en distintas plataformas (OS del Mac, Linux y Windows). [^1]
 
-### Mapas en Marathon
-
-La herramienta Forge y Anvil fueron creadas para el desarrollo de contenido por parte de los fans. Ambas herramientas cuentan con la capacidad de la creación de Mapas o Escenarios con Terminales en Forge,  así como agregar Sprites, Animaciones, Sonidos o modificar el comportamiento del nivel con Anvil.
-Los Mapas, además de creados, deben pasar por un proceso llamado merge (unión) para que el juego pueda detectar correctamente el contenido del mapa, así como darle forma a las Terminales del juego, si es que el mapa contiene alguna terminal.
-Todo el proceso de creación está documentado en el Manual de Marathon Infinity.
-
 ### AlephOne
 
 Luego de la liberación del código fuente de Marathon, un proyecto libre inició el desarrollo de lo que hoy conocemos como AlephOne, un port a múltiples plataformas que buscar mantener funcional todas las entregas de Marathon en las tecnologías actuales. Hay ports tanto para Windows, como Linux o MacOS X, así como plataformas móviles.
 
 Este proyecto agregó tanto nuevas tecnologías en el apartado gráfico como en la capacidad de modificar con facilidad recursos para crear fansgames.
+
+### Mapas en Marathon
+
+La herramienta Forge y Anvil fueron creadas para el desarrollo de contenido por parte de los fans. Ambas herramientas cuentan con la capacidad de la creación de Mapas o Escenarios con Terminales en Forge,  así como agregar Sprites, Animaciones, Sonidos o modificar el comportamiento del nivel con Anvil.
+Los Mapas, además de creados, deben pasar por un proceso llamado merge (unión) para que el juego pueda detectar correctamente el contenido del mapa, así como darle forma a las Terminales del juego, si es que el mapa contiene alguna terminal.
+Todo el proceso de creación está documentado en el Manual de Marathon Infinity.
 
 ### Funcionamiento del Terminal
 
