@@ -85,6 +85,7 @@ $Cn cambia el color del texto por el color n, donde n  puede ser un número del 
 $B inicia el texto en negritas. Finaliza con $b
 
 $I inicia el texto en itálica. Finaliza con $i
+
 $U inicia el texto subrayado. Finaliza con $u
 
 ### Una marcación de texto típica que podrías encontrar es:
@@ -124,7 +125,10 @@ Good work. Onward we go.
 #ENDTERMINAL 0
 
 ### Herramientas Terminal
-[En Desarrollo]
+
+[HuxQT](https://github.com/janos-ijgyarto/HuxQt) es una herramienta creada por janos-ijgyarto que ha sido traducido su manual de uso por exequielpagliari en [este enlace al repositorio GitHub](https://github.com/exequielpagliari/HuxQt/tree/espanol). Su uso es el de confeccionar y editar archivos de terminal, pre visualizando el resultado final lo más aproximado posible. La aplicación es libre de uso. exequielpagliari/HuxQt at espanol (github.com)
+
+[Atque](https://github.com/treellama/atque) es una herramienta para hacer Merge o Split (Unir o Separar) a mapas y escenarios de Marathon/AlephOne. Es desarrollado por treellama.
 
 
 
