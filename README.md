@@ -82,10 +82,11 @@ $B inicia el texto en negritas. Finaliza con $b
 $I inicia el texto en itálica. Finaliza con $i
 $U inicia el texto subrayado. Finaliza con $u
 
-Una marcación de texto típica que podrías encontrar es:
+### Una marcación de texto típica que podrías encontrar es:
+
+
 
 #TERMINAL 0
-
 
 ;sample terminal
 
