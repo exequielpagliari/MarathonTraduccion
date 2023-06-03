@@ -13,10 +13,11 @@ En la ausencia de un proyecto de esta índole para toda la saga, damos por hecho
 
 El proceso de traducción se compone de partes delimitadas que trabajaran en conjunto. Cada una tendrá una finalidad específica y una metodología. El proceso, a grandes rasgos será el siguiente:
  
-
+![This is an image](https://raw.githubusercontent.com/exequielpagliari/MarathonTraduccion/main/procesoTraduccion.png)
 Iniciará en la carga del contenido base a una Plataforma de Traducción, en nuestro caso se aceptará Zanata (https://translate.zanata.org/). Se cargaran en el formato aceptado por la plataforma el contenido del Split del Escenario en cuestión, y se generará un proceso de traducción y mantenimiento de la misma, una vez terminada la traducción.
 
-El siguiente paso en el proceso de traducción será el paso de cada uno de los elementos textuales de la traducción transcribirlo al contenido del Split del Escenario en cuestión, por medio de la aplicación HuxQT (https://github.com/janos-ijgyarto/HuxQt).
+El siguiente paso en el proceso de traducción será el paso de cada uno de los elementos textuales de la traducción transcribirlo al contenido del Split del Escenario en cuestión, por medio de la aplicación [HuxQT](https://github.com/janos-ijgyarto/HuxQt), con la traducción del manual de uso en el este [repositorio](https://github.com/exequielpagliari/HuxQt/tree/espanol).
+
 El proceso se generará en una rama llamada HuxQt, con la cual se copiaran los texto modificados, se generará un Merge del Mapa, haciéndose las pruebas de funcionamiento con ese archivo.
 
 Posterior a ello, se generará un Merge de la rama HuxQt con la Main, usando el archivo Mapa como Release del repositorio.
