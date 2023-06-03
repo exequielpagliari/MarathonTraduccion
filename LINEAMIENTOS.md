@@ -1,5 +1,8 @@
 # Lineamiento del proyecto de traducción de Marathon
 
+[Texto En Desarrollo]
+
+
 El proceso de traducción comprende múltiples aristas a tratar, no solo el medio que involucra la traducción, también los procesos en que los traductores se van a relacionar con el material a traducir, así como la integración de la traducción dentro del medio a traducir.
 
 Marathon, siendo un juego que ha iniciado su desarrollo desde 1994, son múltiples instancias a tratar. Su primera versión comprende alteraciones en los recursos internos de la aplicación que debían ser modificados por aplicaciones especiales, mientras que las nuevas versiones aceptaban recursos externos con facilidad de edición, junto con las herramientas oficiales de Bungie.
